@@ -139,22 +139,26 @@ export const contactData: ContactType[] = [
   {
     icon: PhoneIcon,
     label: 'Call Me',
-    detail: '+0088 66956 66'
+    detail: '+216 28 066 743',
+    link:''
   },
   {
     icon: MailIcon,
     label: 'Email me',
-    detail: 'Dgnr@gmail.com'
+    detail: 'contact@teklick.com',
+    link:'https://mail.google.com'
   },
   {
     icon: LineChartIcon,
     label: 'Follow Me',
-    detail: 'Facebook.com'
+    detail:'Teklick',
+    link: 'https://www.facebook.com/Teklick' 
   },
   {
     icon: SaveIcon,
     label: 'My Work',
-    detail: 'Coderthemes.com'
+    detail: 'teklick.com',
+    link:'https://teklick.com'
   }
 ]
 

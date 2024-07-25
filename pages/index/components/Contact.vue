@@ -9,7 +9,10 @@
             <component :is="item.icon" class="h-10 w-10" />
           </div>
           <h4 class="text-xl font-medium text-default-950 mt-5">{{ item.label }}</h4>
-          <p class="text-base text-default-800 mt-1">{{ item.detail }}</p>
+          <p class="text-base text-default-800 mt-1">
+            <a v-if="item.link" :href="item.link" target="_blank">{{ item.detail }}</a>
+            <span v-else>{{ item.detail }}</span>
+          </p>
         </div>
       </div>
     </div>

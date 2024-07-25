@@ -83,7 +83,7 @@
                   >
                     <FacebookIcon class="h-5 w-5" />
                   </div>
-                  <h5 class="text-base font-medium text-default-800">Facebook</h5>
+                  <h5 class="text-base font-medium text-default-800"> <a href="https://www.facebook.com/Teklick" target="_blank">Facebook</a></h5>
                 </a>
 
                 <a href="javascript:void(0);" class="flex items-center gap-5 group">
@@ -110,7 +110,7 @@
                   >
                     <LinkedinIcon class="h-5 w-5" />
                   </div>
-                  <h5 class="text-base font-medium text-default-800">Linkedin</h5>
+                  <h5 class="text-base font-medium text-default-800"><a href="https://www.linkedin.com/company/teklick/" target="_blank">Linkedin</a></h5>
                 </a>
               </div>
             </ul>

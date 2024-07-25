@@ -72,6 +72,7 @@ export type BlogType = {
 }
 
 export type ContactType = {
+  link: any
   icon?: FunctionalComponent
   image?: string
   label?: string
