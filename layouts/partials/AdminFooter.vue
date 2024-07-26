@@ -4,11 +4,7 @@
       <div class="grid items-center gap-6 lg:grid-cols-2">
         <p class="text-center text-default-900 lg:text-start">
           {{ year }}
-          © AeroPage. Crafted and Coded with
-          <span class="text-red-500">❤️</span> by
-          <a class="text-primary-700" href="https://coderthemes.com/" target="_blank"
-            >Coderthemes</a
-          >
+          © TeckLick.
         </p>
 
         <div class="hidden justify-center gap-6 text-center lg:flex lg:justify-end">
